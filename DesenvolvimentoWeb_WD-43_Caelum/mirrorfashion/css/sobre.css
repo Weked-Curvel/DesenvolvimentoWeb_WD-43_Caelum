@@ -1,0 +1,27 @@
+/*
+Este arquivo se trata de uma folha de estilo, para o documento html sobre.
+E as principais alterações adotas.
+*/
+
+body {
+	color: #333333;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+h1 {
+	background-image: url(../img/sobre-background.jpg);
+}
+
+h2 {
+	border-bottom: 2px solid #333333;
+}
+
+figure {
+	background-color: #F2EDED;
+	border: 1px solid #CCC;
+	text-align: center;
+}
+
+figcaption {
+	font-style: italic;
+}
